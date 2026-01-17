@@ -95,7 +95,7 @@ Results:
 - Buy price avg: $12.07/MMBtu
 - Sell price avg: $13.50/MMBtu
 - Storage costs: $1.28M
-- Net Value: -$280K ❌
+- Net Value: -$280K 
 
 Insight: Storage costs exceeded price spread profit
 ```
@@ -113,7 +113,7 @@ Parameters:
 Results:
 - Volume: 800K MMBtu (100% capacity used)
 - Storage costs: $2.15M
-- Net Value: -$1.01M ❌
+- Net Value: -$1.01M 
 
 Insight: Hit capacity limit, higher costs due to longer duration
 ```
