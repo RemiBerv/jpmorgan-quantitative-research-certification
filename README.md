@@ -128,6 +128,6 @@ Where bi is the bucket boundaries, ni is the number of records in each bucket, k
 
 ---
 
-add me on linkedIn : Rémi BERVEILLER 
+www.linkedin.com/in/rémi-berveiller
 
 *These task descriptions are provided by JP Morgan Chase & Co. through the Forage platform for educational purposes.*
