@@ -122,7 +122,7 @@ def predict_price(date_input):
 
     return price, method
 
-print("   ✅ Function predict_price() created")
+print("    Function predict_price() created")
 print("   → It can predict the price for ANY date!")
 print()
 
